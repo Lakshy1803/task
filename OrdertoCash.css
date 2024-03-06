@@ -1,0 +1,53 @@
+h2 {
+  text-align: center;
+  width: 88%;
+  background-color: red;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.Level1 {
+  display: inline-block;
+  position: relative;
+  margin-left: 70px;
+  right: 50px;
+}
+.lvl2 {
+  background-color: orange;
+  color: #fff;
+  position: relative;
+  border: 0;
+  border-radius: 10px;
+  height: 80px;
+  margin-right: 5px;
+  width: 100px;
+  vertical-align: middle;
+}
+
+.lvl3 {
+  width: 100px;
+  margin-right: 5px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 0;
+  background-color: lightcoral;
+  color: #fff;
+  height: 80px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.lvl4 {
+  width: 100px;
+  margin-right: 5px;
+  margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  border: 0;
+  background-color: lightcoral;
+  color: #fff;
+  height: 80px;
+  vertical-align: middle;
+  padding-left: 0;
+}
